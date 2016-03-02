@@ -1,0 +1,64 @@
+body {
+  font-family: "Helvetica";
+  background-image: url("images/honeycomb.gif");
+}
+
+#content-wrapper {
+  width: 700px;
+  margin: 0 auto;
+  padding: 15px;
+  background-color: white;
+}
+
+h1  {
+  text-align: center;
+  color: #008ae6;
+}
+
+img {
+  /* center an image with display: block; a width, and margin: 0 auto; */
+  display: block;
+  width: 700px;
+  margin: 0 auto;
+}
+
+h3, h5 {
+  color: #008ae6;
+  text-decoration-color: #008ae6;
+}
+
+.news {
+  color: #008ae6;
+  text-decoration-color: #008ae6;
+}
+
+div {
+  background-color: #cceeff;
+/*  color: ##ff0066;
+*/}
+
+a {
+  color: #008ae6;
+  text-decoration: none;
+  /*color: #ff0066;*/
+}
+
+p {
+  font-size: 20px;
+  line-height: 28px;
+}
+
+.sponsored {
+  font-size: 20px;
+  margin: 5px;
+  background-color: pink;
+}
+
+
+/*span {
+  font-size: 20px;
+  line-height: 28px;
+}
+*/
+
+
